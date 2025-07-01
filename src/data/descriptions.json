@@ -1,0 +1,85 @@
+[
+  {
+    "id": "hfcs",
+    "title": "Texas closed a tax loophole. Last-minute deals cost taxpayers $175M anyway",
+    "outlet": "Houston Chronicle",
+    "pubdate": "May 2025",
+    "description": "<div>\nFor nearly two years, housing finance corporations in Texas used a legal loophole to remove hundreds of properties from local taxrolls, costing communities hundreds of millions in lost revenue while rarely delivering affordable housing. As the state took action to end the loophole, our team found that a flurry of last-minute deals cost taxpayers – many of whom lived nowhere near the properties – an estimated $175 million annually. \n</div>",
+    "link": "https://www.houstonchronicle.com/projects/2025/hfc-loophole-taxpayer-cost-legislature/"
+  },
+  {
+    "id": "midtown-calculator",
+    "title": "See how Midtown Redevelopment Authority's land sales undermined its affordable housing efforts",
+    "outlet": "Houston Chronicle",
+    "pubdate": "April 2025",
+    "description": "<div>\nA Houston development agency spent over a decade acquiring land for affordable housing, but later sold off 16.6 acres—some at a loss and without open bidding—to developers building expensive new townhomes. Our team analyzed and visualized property appraisal records to show how these secretive deals often undermined the agency’s mission.\n</div>",
+    "link": "https://www.houstonchronicle.com/projects/2025/midtown-redevelopment-authorty-cost-fee-land-sales/"
+  },
+  {
+    "id": "teacher-salaries",
+    "title": "Texas teacher salary explorer: See how your district’s pay compares",
+    "outlet": "Houston Chronice",
+    "pubdate": "December 2024",
+    "description": "<div>\nAcross the state of Texas, over 365,000 full-time teachers are responsible for educating Texas' more than 5.5 million elementary, middle, and high school students. The Houston Chronicle has analyzed and visualized pay records from the Texas Education Agency to help shed light on teacher salaries at Texas' roughly 1,200 public school districts.\n</div>\n<div>\nI led our team's development and visualization efforts, creating an explorable database for our readers.\n</div>",
+    "link": "https://www.houstonchronicle.com/projects/2024/texas-teacher-salary-explore/"
+  },
+  {
+    "id": "perry-timeline",
+    "title": "Inside Daniel Perry’s online life before he killed an armed BLM protester",
+    "outlet": "Houston Chronicle",
+    "pubdate": "December 2024",
+    "description": "<div>\nIn July 2020, Army Sgt. Daniel Perry shot and killed an armed Black Lives Matter protester in Austin, later claiming self-defense, while prosecutors argued he provoked the incident. His online activity—revealing extremist views, violent fantasies, and preparations for potential confrontations—became central to his murder trial and Texas Gov. Greg Abbott’s controversial pardon. Our team created an interactive timeline chronicling the events leading up to the shooting and offering a window into Perry’s digital world.\n</div>",
+    "link": "https://www.houstonchronicle.com/projects/2024/daniel-perry-blm-protester-abbott-pardon/"
+  },
+  {
+    "id": "thanksgiving-game",
+    "title": "We shopped Houston grocery stores for a bag of Thanksgiving food. Here's what it cost at each.",
+    "outlet": "Houston Chronicle",
+    "pubdate": "November 2024",
+    "description": "<div>\nA game helping readers compare the prices of Thanksgiving staples across local grocery stores, calculating their least expensive option.\n</div>",
+    "link": "https://www.houstonchronicle.com/projects/2024/thanksgiving-shopping-cart-game/"
+  },
+  {
+    "id": "early-voting",
+    "title": "Early voting is underway in Texas. See where turnout is highest",
+    "outlet": "Houston Chronicle",
+    "pubdate": "November 2024",
+    "description": "<div>\nA live-updating tool helping readers explore early voting turnout across Texas during the 2024 general election. \n</div>",
+    "link": "https://www.houstonchronicle.com/projects/2024/texas-2024-early-voting-turnout/"
+  },
+  {
+    "id": "fema-aid",
+    "title": "A record number of Harris County residents applied for FEMA aid after Hurricane Beryl. Here's where.",
+    "outlet": "Houston Chronicle",
+    "pubdate": "August 2024",
+    "description": "<div>\nIn the aftermath of Hurricane Beryl in July 2024, a record level of Harris County residents submitted applications to the Federal Emergency Management Agency for disaster recovery assistance. Our team analyzed the torrent of applications, finding disparities in the areas at the highest risk during the disaster versus the areas submitting the most requests for aid. \n</div>",
+    "link": "https://www.houstonchronicle.com/projects/2024/beryl-fema-applications-assistance/"
+  },
+  {
+    "id": "sour-gas",
+    "title": "Texas oil companies are leaking toxic gas near schools and homes. Regulators do little to stop them.",
+    "outlet": "Houston Chronicle/The Examination",
+    "pubdate": "June 2024",
+    "description": "<div>\nIn collaboration with The Examination, our team investigated the hazards of hydrogen sulfide – a gas that Texas oil companies are belching into communities with little to no regulatory repercussions – including producing an interactive map to help readers identify their own potential risk of exposure. \n</div>",
+    "link": "https://www.houstonchronicle.com/business/energy/article/texas-oil-companies-toxic-h2s-gas-leaks-19446603.php?fromRichie",
+    "awards": "Goldsmith Award (2025) - Semifinalist; Society for Advancing Business Editing and Writing’s Best in Business Awards (2024) - First Place, Health/Science and Honorable Mention, Data Journalism"
+  },
+  {
+    "id": "lakewood",
+    "title": "The Lakewood Church shooter had encounters with more than 50 officers. Nobody stopped her.",
+    "outlet": "Houston Chronicle",
+    "pubdate": "May 2024",
+    "description": "<div>\nAfter a February shooting at Houston’s Lakewood Church, our team scraped social media sites and requested records from nearly two dozen government agencies to build a timeline of the perpetrator’s interactions with law enforcement officials in the decade leading up to the attack.\n</div>",
+    "link": "https://www.houstonchronicle.com/projects/lakewood-church-shooting-investigation-timeline/",
+    "awards": "Livingston Award (2025) - Finalist, Local Reporting; National Headliner Awards (2025) - Second Place, Digital presentation of a single news topic"
+  },
+  {
+    "id": "office-to-resi",
+    "title": "How $100M turned a vacant downtown Houston highrise office into luxury apartments",
+    "outlet": "Houston Chronicle",
+    "pubdate": "February 2024",
+    "description": "<div>\nConverting a cold, corporate office building into a warm, livable place is mired in challenges. But using blueprints and building plans, our team walked readers through a successful case study – the $100 million transformation of a 52-year-old high-rise in downtown Houston – as part of a series examining the future of the city’s vacant office space.\n</div>",
+    "link": "https://www.houstonchronicle.com/projects/2024/office-to-residential-conversion/",
+    "awards": "National Association of Real Estate Editors (2025) - Gold Winner, Best Multi-Platform Package or Series (Real Estate)"
+  }
+]

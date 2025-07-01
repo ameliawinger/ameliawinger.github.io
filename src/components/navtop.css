@@ -1,0 +1,7 @@
+.navtop-container {
+  position: fixed;
+  width: 100%;
+  height: 50px;
+  background-color: cyan;
+  z-index: 2147483647;
+}

@@ -1,0 +1,121 @@
+.bin-wrapper {
+  height: fit-content;
+  width: 90%;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-top: 2px solid #f1dead;
+  margin: 1rem auto 0 auto;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.story-icon {
+  width: 35%;
+  height: 90%;
+  margin: auto 1rem auto 1rem;
+  position: relative;
+  border: none;
+  cursor: pointer;
+}
+
+.story-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  border: 3px solid transparent;
+}
+.story-image:hover {
+  border: solid 3px #cae6ee;
+}
+
+.story-details {
+  height: 90%;
+  max-width: 60%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: auto 1rem auto 1rem;
+}
+.story-title {
+  margin: 0;
+  font-size: 24px;
+  color: #f1dead;
+  font-family: "Montserrat", sans-serif;
+}
+.story-slugline {
+  font-style: italic;
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+  font-size: 17px;
+  color: #cae6ee;
+  font-family: "Montserrat", sans-serif;
+}
+.story-description {
+  font-size: 15px;
+  width: 100%;
+}
+.story-description div {
+  margin-bottom: 1rem;
+}
+.story-awards {
+  flex-direction: column;
+  justify-content: flex-end;
+  vertical-align: bottom;
+  position: relative;
+  margin-top: auto;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  color: #cae6ee;
+}
+
+@media (max-width: 800px) {
+  .bin-wrapper {
+    height: fit-content;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-top: 2px solid #f1dead;
+    margin: 0.5rem auto 0 auto;
+    padding: 0;
+    padding-top: 0.5rem;
+    flex-direction: column;
+  }
+
+  .story-icon {
+    width: 90%;
+    height: auto;
+    margin: auto;
+    position: relative;
+  }
+
+  .story-image {
+    display: block;
+    width: 95%;
+    height: auto;
+    margin: auto;
+  }
+  .story-image:hover {
+    border: solid 3px #cae6ee;
+  }
+
+  .story-details {
+    height: auto;
+    width: 90%;
+    max-width: none;
+    margin: 0.5rem auto auto auto;
+  }
+  .story-title {
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.1;
+    font-family: "Montserrat", sans-serif;
+  }
+  .story-slugline {
+    font-style: italic;
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+    font-size: 14px;
+    text-align: center;
+    color: #cae6ee;
+  }
+}

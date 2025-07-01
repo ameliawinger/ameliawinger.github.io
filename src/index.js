@@ -4,11 +4,13 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import Home from "./components/home";
+import NavTop from "./components/navtop";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
+    {/*<NavTop />*/}
     <Home />
   </React.StrictMode>
 );
